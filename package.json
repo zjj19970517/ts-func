@@ -1,0 +1,15 @@
+{
+  "name": "@meils/ts-func",
+  "version": "1.0.0",
+  "description": "TS 工具类型库",
+  "types": "src/index.ts",
+  "files": [
+    "src"
+  ],
+  "keywords": [],
+  "author": "1392372716@qq.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
